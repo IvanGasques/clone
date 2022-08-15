@@ -11,7 +11,7 @@ function App() {
     <div className="gradient__bg">
     <Navbar/>
     <Header/>
-  </div>
+  
   <Brand/>
   <WhatMe/>
   <Features/>
@@ -19,7 +19,7 @@ function App() {
   <Cta/>
   <Blog/>
   <Footer/>
-    
+    </div>
     </div>
   );
 }

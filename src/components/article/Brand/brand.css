@@ -1,0 +1,25 @@
+.gpt3__brand {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  /* ff 3.6+ */
+  background: transparent;
+
+}
+
+
+
+
+.gpt3__brand img {
+  flex: 1;
+  max-width: 150px;
+  min-width: 120px;
+  margin: 1rem;
+  background: transparent;
+
+
+  display: block;
+  justify-content: space-around;
+  align-items: center;
+
+}
