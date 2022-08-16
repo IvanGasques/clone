@@ -15,7 +15,7 @@ const Navbar = () => {
   const Menu = () =>{ 
   return (<>
     <p><a href='home'>Home</a> </p>
-    <p><a href='wgt3'>What is GPT-3</a> </p>
+    <p><a href='whpt3'>What is GPT-3</a> </p>
     <p><a href='possibility'>Open AI</a> </p>
     <p><a href='features'>Case Studies</a> </p>
     <p><a href='blog'>Library</a> </p>
